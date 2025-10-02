@@ -1,0 +1,6 @@
+id=template-jhc-arm64
+name=AppName ReVanced
+version=XX.XX.XX (patches X.XX.X)
+versionCode=20221026
+author=j-hc
+description=AppName ReVanced Magisk module

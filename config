@@ -1,0 +1,3 @@
+PKG_NAME=com.google.android.apps.youtube
+PKG_VER=XX.XX.XX
+MODULE_ARCH=arm64
